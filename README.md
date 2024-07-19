@@ -6,4 +6,8 @@
 - Improve customer experience by analyzing sales data.
 - Increase Revenue.
 
+# MYSQL Music_playlist_analysis
+- Helps the digital music store understand its business growth
+- Using join and CTC Method finds most consumed playlis
+
   
